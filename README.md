@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mirazh344377
+- 👋 Hi, I’m Tamrat
 - 👀 I’m interested in learning and teaching.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on coding.
